@@ -1,4 +1,5 @@
 # frontend
+This is a Sub repo of Books-Crud https://github.com/Anakinstone/books-crud
 
 ## Project setup
 ```
